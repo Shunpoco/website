@@ -75,12 +75,12 @@ nav:
         - Demos and Presentations: community/presentations.md
 
 site_name: KServe Documentation Website
-site_url: https://kserve.io/docs
+site_url: https://shunpoco.github.io/website
 site_description: KServe Documentation
 extra_css:
   - stylesheets/extra.css
 
-repo_url: https://github.com/kserve/website
+repo_url: https://github.com/Shunpoco/website
 edit_uri: edit/mkdocs/docs
 
 theme:
